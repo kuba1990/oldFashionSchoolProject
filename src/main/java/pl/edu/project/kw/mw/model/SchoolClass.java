@@ -1,4 +1,4 @@
-package pl.edu.agh.ki.mw.model;
+package pl.edu.project.kw.mw.model;
 
 import javax.persistence.CascadeType;
 import javax.persistence.Column;

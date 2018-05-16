@@ -1,17 +1,13 @@
-package pl.edu.agh.ki.mw.web.controllers;
+package pl.edu.project.kw.mw.web.controllers;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
-import pl.edu.agh.ki.mw.model.Student;
-import pl.edu.agh.ki.mw.persistence.DatabaseConnector;
-
+import pl.edu.project.kw.mw.model.Student;
+import pl.edu.project.kw.mw.persistence.DatabaseConnector;
 import javax.servlet.http.HttpSession;
-
-;
-
 
 @Controller
 public class StudentsController {

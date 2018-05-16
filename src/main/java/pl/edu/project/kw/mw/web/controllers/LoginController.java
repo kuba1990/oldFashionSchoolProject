@@ -1,4 +1,4 @@
-package pl.edu.agh.ki.mw.web.controllers;
+package pl.edu.project.kw.mw.web.controllers;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

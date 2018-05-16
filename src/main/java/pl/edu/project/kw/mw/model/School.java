@@ -1,4 +1,4 @@
-package pl.edu.agh.ki.mw.model;
+package pl.edu.project.kw.mw.model;
 
 import javax.persistence.CascadeType;
 import javax.persistence.Column;
@@ -11,6 +11,7 @@ import javax.persistence.OneToMany;
 import javax.persistence.Table;
 import java.util.HashSet;
 import java.util.Set;
+
 
 @SuppressWarnings("serial")
 @Entity

@@ -1,11 +1,11 @@
-package pl.edu.agh.ki.mw.persistence;
+package pl.edu.project.kw.mw.persistence;
 
 import org.hibernate.Query;
 import org.hibernate.Session;
 import org.hibernate.Transaction;
-import pl.edu.agh.ki.mw.model.School;
-import pl.edu.agh.ki.mw.model.SchoolClass;
-import pl.edu.agh.ki.mw.model.Student;
+import pl.edu.project.kw.mw.model.School;
+import pl.edu.project.kw.mw.model.SchoolClass;
+import pl.edu.project.kw.mw.model.Student;
 
 import java.util.List;
 

@@ -4,7 +4,8 @@ package pl.edu.project.kw.mw.web.app;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.ComponentScan;
-import pl.edu.agh.ki.mw.persistence.DatabaseConnector;
+import pl.edu.project.kw.mw.persistence.DatabaseConnector;
+
 
 import javax.annotation.PreDestroy;
 
